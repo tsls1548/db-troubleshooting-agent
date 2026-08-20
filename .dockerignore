@@ -1,0 +1,7 @@
+.venv
+.env
+docs
+__pycache__
+*.ps1
+*.sql
+README.md

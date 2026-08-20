@@ -1,0 +1,15 @@
+# secrets and local config
+.env
+*.env
+
+# corpus (fetched by fetch_docs.py, not committed)
+docs/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# misc
+.DS_Store
+*.log
